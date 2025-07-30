@@ -1,0 +1,56 @@
+.comment-section {
+    margin-top: 2rem;
+    border-top: 1px solid #eee;
+    padding-top: 1rem;
+  }
+  
+  .comment-list {
+    margin: 1rem 0;
+  }
+  
+  .comment-item {
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background: #f9f9f9;
+    border-radius: 4px;
+  }
+  
+  .comment-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+    color: #666;
+  }
+  
+  .comment-content {
+    margin-left: 0.5rem;
+  }
+  
+  .comment-actions {
+    margin-top: 0.5rem;
+    display: flex;
+    gap: 0.5rem;
+  }
+  
+  .comment-actions button {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.8rem;
+    background: #eee;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .add-comment {
+    margin-top: 1rem;
+  }
+  
+  .add-comment textarea {
+    width: 100%;
+    padding: 0.5rem;
+    min-height: 80px;
+    margin-bottom: 0.5rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }

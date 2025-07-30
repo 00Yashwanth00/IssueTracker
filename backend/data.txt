@@ -1,0 +1,36 @@
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODgzNTRjM2ZkNGJiZmQ1ODRkNDYxZjUiLCJyb2xlIjoiZGV2ZWxvcGVyIiwiaWF0IjoxNzUzNDM3NDY0LCJleHAiOjE3NTM1MjM4NjR9.feNsnxnmGjJoDXFwFDujgEWJF4270JcpXzEfQ-RWA7s
+
+//Issue
+{
+    "title": "Login Button Not Working",
+    "description": "The submit button fails on mobile devices",
+    "status": "open",
+    "priority": "high",
+    "type": "bug",
+    "createdBy": "688354c3fd4bbfd584d461f5",
+    "assignedTo": null,
+    "_id": "688356d4fd4bbfd584d461f8",
+    "comments": [],
+    "createdAt": "2025-07-25T10:05:08.517Z",
+    "updatedAt": "2025-07-25T10:05:08.517Z",
+    "__v": 0
+}
+
+//comments{
+    "message": "Comment added",
+    "comment": {
+        "text": "This needs urgent attention",
+        "postedBy": "688354c3fd4bbfd584d461f5",
+        "_id": "68835736fd4bbfd584d461fb",
+        "createdAt": "2025-07-25T10:06:46.695Z"
+    }
+}
+
+//user
+{
+    "_id": "688354c3fd4bbfd584d461f5",
+    "username": "testuser",
+    "email": "test@example.com",
+    "role": "developer",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODgzNTRjM2ZkNGJiZmQ1ODRkNDYxZjUiLCJyb2xlIjoiZGV2ZWxvcGVyIiwiaWF0IjoxNzUzNDM4NzIyLCJleHAiOjE3NTM1MjUxMjJ9.peIY-W58DD7o4S9gHurEdtWub8ke5ICiPkIcGEgZGSw"
+}

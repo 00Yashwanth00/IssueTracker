@@ -1,0 +1,26 @@
+issue-tracker-backend/
+├── config/
+│   └── db.js
+├── controllers/
+│   ├── authController.js
+│   ├── issueController.js
+│   └── commentController.js
+├── errors/
+│   ├── NotFoundError.js
+│   ├── ForbiddenError.js
+│   └── BadRequestError.js
+├── middleware/
+│   ├── auth.js
+│   ├── errorHandler.js
+│   └── validateObjectId.js
+├── models/
+│   ├── User.js
+│   └── Issue.js
+├── routes/
+│   ├── auth.js
+│   ├── issues.js
+│   └── comments.js
+├── utils/
+│   └── jwt.js
+├── .env
+└── server.js
